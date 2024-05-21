@@ -14,4 +14,3 @@ Pseudo code -
 3. Finding the position of the required points on the pendulum to generate trajectory using Forward Kinematics / dynamics.
 4. Generating Plots
 
-The complete simulation was unable to be done within stipulated time please.
